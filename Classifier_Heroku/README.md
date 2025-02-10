@@ -1,4 +1,3 @@
-```markdown
 # iris_classifier
 
 This project trains a machine learning model on the **Iris dataset**, converts it into a **pickle file**, and deploys a **Flask web application** that allows users to input data and get predictions. The app consists of two webpages:  
